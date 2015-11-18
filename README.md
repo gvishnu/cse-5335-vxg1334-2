@@ -14,6 +14,8 @@ photos.
 	1) git add .  
 	2) git commit -m “statement”
 	3) git push Heroku master 
+	4) heroku run bash
+	5) node filename.js
 
 —> The program part which asked us to create scripts to populate data to datasources,
 querying a single element based on its primary unique key and to select at least 2 
